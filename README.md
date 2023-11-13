@@ -11,3 +11,8 @@
 **Batch:** Fall 2023 
 
 **Institute:** Uttara University
+
+### Index
+| #  | Assignment | Date       |
+| -- | ---------- | ---------- |
+| 01 | Pointer    | 13-11-2023 |
